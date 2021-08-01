@@ -10,7 +10,7 @@ Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl
 
 This repository contains a sample notebook of SINDy for AE-based latent variables with a periodic cylinder wake.
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
-Since this is a sample notebook, we also do not provide a data set and CNN-AE. For the data set and CNN-AE, please refer to our previous papars with their sample codes as follows:
+Since this is a sample notebook, we also do not provide a data set and CNN-AE. For the data set and CNN-AE, please refer to our previous papars with [their sample codes](https://sites.google.com/view/kai-fukami/%E3%83%9B%E3%83%BC%E3%83%A0/let-us-machine-learn?authuser=0) as follows:
 
 1. T. Murata, K. Fukami, and K. Fukagata, "Nonlinear mode decomposition with convolutional neural networks for fluid dynamics," J. Fluid Mech. 882, A13 (2020).
 2. K. Hasegawa, K. Fukami, T. Murata, and K. Fukagata, "CNN-LSTM based reduced order modeling of two-dimensional unsteady flows around a circular cylinder at different Reynolds numbers," Fluid Dyn. Res. 52, 065501 (2020).

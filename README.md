@@ -12,8 +12,8 @@ This repository contains a sample notebook of SINDy for AE-based latent variable
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 Since this is a sample notebook, we also do not provide a data set and CNN-AE. For the data set and CNN-AE, please refer to our previous papars with [their sample codes](https://sites.google.com/view/kai-fukami/%E3%83%9B%E3%83%BC%E3%83%A0/let-us-machine-learn?authuser=0) as follows:
 
-1. T. Murata, K. Fukami, and K. Fukagata, "Nonlinear mode decomposition with convolutional neural networks for fluid dynamics," J. Fluid Mech. 882, A13 (2020).
-2. K. Hasegawa, K. Fukami, T. Murata, and K. Fukagata, "CNN-LSTM based reduced order modeling of two-dimensional unsteady flows around a circular cylinder at different Reynolds numbers," Fluid Dyn. Res. 52, 065501 (2020).
+1. T. Murata, K. Fukami, and K. Fukagata, "[Nonlinear mode decomposition with convolutional neural networks for fluid dynamics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/nonlinear-mode-decomposition-with-convolutional-neural-networks-for-fluid-dynamics/6F1350060022629E0330FD1D97CE917C)," J. Fluid Mech. 882, A13 (2020).
+2. K. Hasegawa, K. Fukami, T. Murata, and K. Fukagata, "[CNN-LSTM based reduced order modeling of two-dimensional unsteady flows around a circular cylinder at different Reynolds numbers](https://iopscience.iop.org/article/10.1088/1873-7005/abb91d)," Fluid Dyn. Res. 52, 065501 (2020).
 
 # Requirements
 * Python 3.x  
